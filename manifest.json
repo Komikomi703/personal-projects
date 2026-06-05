@@ -1,0 +1,13 @@
+{
+  "name": "ルーレット",
+  "short_name": "ルーレット",
+  "start_url": ".",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "ro-ret.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
